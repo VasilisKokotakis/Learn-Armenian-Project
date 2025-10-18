@@ -97,3 +97,6 @@ Flashy_Armenian-English_Flashcards/
 * espeak-ng (Linux)
 * Tkinter (usually included with Python)
 
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
